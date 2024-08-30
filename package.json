@@ -1,0 +1,12 @@
+{
+  "name": "wp_npm_git_activity",
+  "version": "1.0.0",
+  "description": "1. Fork this repository\r    ![image](https://github.com/user-attachments/assets/f2153c37-921f-41b5-ba04-fc7e58523b52)\r 3. Clone this repo in your local\r 4. Create a new branch and name it “firstname_lastname”\r 5. In your created branch initialize your project and set the ff:\r \tProject Name: npm_git_activity\r \tDescription: NPM and GIT activity\r \tAuthor: [Firstname] [Lastname]\r 6. Stage and commit your changes and set the commit message as “Init”\r 7. Install Moment in your project (https://momentjs.com/)\r 8. Install Tailwind in your project (https://tailwindcss.com/docs/installation)\r 9. Create new files index.html and src/index.js\r 10. Update tailwind.config.js, add “./index.html” in content property\r 11. Install live-server as dev dependencies and configure script in package.json. User property name “server”.\r 12. Test your application. It should look like this.\r     ![image](https://github.com/user-attachments/assets/3977b8af-e1b6-4b91-8fcf-30ccf54f72b4)\r 14. Update your index.html, inside the body tag copy template from here (https://tailwindui.com/components/marketing/sections/heroes#component-b9bcab4538776a17fff93d18f82a8272)\r 15. Update the title and description that should look like this:\r     ![image](https://github.com/user-attachments/assets/6abe80ba-c9c9-4b9f-a7d5-e0490f24e7d2)\r 17. Create a new file .gitignore and add node_modules\r 18. Stage, and commit your changes.\r 19. Push your changes (git push -u origin [firstname_lastname])",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
